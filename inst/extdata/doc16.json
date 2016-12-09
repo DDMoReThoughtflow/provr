@@ -1,0 +1,493 @@
+[
+    {
+        "prefix": {
+            "ddmore": "http://ddmore.eu/workflow",
+            "vcs": "http://ddmore.eu/workflow/vcs",
+            "repo": "https://github.com/johndoe/examplerepo.git"
+        },
+        "bundle": {
+            "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656": {
+                "wasGeneratedBy": {
+                    
+                },
+                "activity": {
+                    
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/covariatesSummary.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/covariatesSummary.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/estimates.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/estimates.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_2": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/fim_lin.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/fim_lin.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_3": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/finegrid.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/finegrid.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_4": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/fulltimes.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/fulltimes.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_5": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/indiv_eta.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/indiv_eta.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_6": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/indiv_parameters.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/indiv_parameters.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_7": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/individualContributionToLL.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/individualContributionToLL.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_8": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/pop_parameters.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/pop_parameters.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_9": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/predictions.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/predictions.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_10": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/project.mat",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/project.mat",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_11": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/project.xmlx",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/project.xmlx",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_12": {
+                        "prov:specificEntity": "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/results.mat",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/results.mat",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/covariatesSummary.txt": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/estimates.txt": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/fim_lin.txt": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/finegrid.txt": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/fulltimes.txt": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/indiv_eta.txt": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/indiv_parameters.txt": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/individualContributionToLL.txt": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/pop_parameters.txt": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/predictions.txt": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/project.mat": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/project.xmlx": {
+                        
+                    },
+                    "repo:e8027f2b-c269-46ac-af81-7c2f4bd87656/models/Step3/Step3/Step3_project/results.mat": {
+                        
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    
+                }
+            },
+            "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5": {
+                "wasGeneratedBy": {
+                    "_:gen0": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_corr.csv"
+                    },
+                    "_:gen1": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_criterion.csv"
+                    },
+                    "_:gen2": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_ctoll.csv"
+                    },
+                    "_:gen3": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_fim.csv"
+                    },
+                    "_:gen4": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_indiveta.csv"
+                    },
+                    "_:gen5": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_indivmean.csv"
+                    },
+                    "_:gen6": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_indwres.csv"
+                    },
+                    "_:gen7": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_pop.csv"
+                    },
+                    "_:gen8": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_popwres.csv"
+                    },
+                    "_:gen9": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_pred.csv"
+                    },
+                    "_:gen10": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_rse.csv"
+                    },
+                    "_:gen11": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_se.csv"
+                    },
+                    "_:gen12": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3.SO.xml"
+                    }
+                },
+                "activity": {
+                    "repo:6f57fcf4-b498-4258-b632-365afbd31d6d": {
+                        "prov:startTime": null,
+                        "ddmore:displayName": "estimate"
+                    }
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/scripts/Step3.R",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/scripts/Step3.R",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/covariatesSummary.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/covariatesSummary.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_2": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/estimates.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/estimates.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_3": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/fim_lin.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/fim_lin.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_4": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/finegrid.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/finegrid.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_5": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/fulltimes.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/fulltimes.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_6": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/indiv_eta.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/indiv_eta.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_7": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/indiv_parameters.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/indiv_parameters.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_8": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/individualContributionToLL.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/individualContributionToLL.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_9": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/pop_parameters.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/pop_parameters.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_10": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/predictions.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/predictions.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_11": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/project.mat",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/project.mat",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_12": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/project.xmlx",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/project.xmlx",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_13": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/results.mat",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/results.mat",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_14": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_corr.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_corr.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_15": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_criterion.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_criterion.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_16": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_ctoll.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_ctoll.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_17": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_fim.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_fim.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_18": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_indiveta.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_indiveta.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_19": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_indivmean.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_indivmean.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_20": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_indwres.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_indwres.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_21": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_pop.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_pop.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_22": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_popwres.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_popwres.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_23": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_pred.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_pred.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_24": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_rse.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_rse.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_25": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_se.csv",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/ddmore_se.csv",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_26": {
+                        "prov:specificEntity": "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3.SO.xml",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3.SO.xml",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/scripts/Step3.R": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/covariatesSummary.txt": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/estimates.txt": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/fim_lin.txt": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/finegrid.txt": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/fulltimes.txt": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/indiv_eta.txt": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/indiv_parameters.txt": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/individualContributionToLL.txt": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/pop_parameters.txt": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/predictions.txt": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/project.mat": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/project.xmlx": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3/Step3_project/results.mat": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_corr.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_criterion.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_ctoll.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_fim.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_indiveta.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_indivmean.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_indwres.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_pop.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_popwres.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_pred.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_rse.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/ddmore_se.csv": {
+                        
+                    },
+                    "repo:eefc6c69-ae0b-48f2-b3c3-5b77f414d7c5/models/Step3/Step3.SO.xml": {
+                        
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    "_:wAW0": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:plan": "repo:faca935a-2515-47be-932a-f91b665077bf/scripts/Step3.R"
+                    }
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    "_:used0": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/covariatesSummary.txt"
+                    },
+                    "_:used1": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/estimates.txt"
+                    },
+                    "_:used2": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/fim_lin.txt"
+                    },
+                    "_:used3": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/finegrid.txt"
+                    },
+                    "_:used4": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/fulltimes.txt"
+                    },
+                    "_:used5": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/indiv_eta.txt"
+                    },
+                    "_:used6": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/indiv_parameters.txt"
+                    },
+                    "_:used7": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/individualContributionToLL.txt"
+                    },
+                    "_:used8": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/pop_parameters.txt"
+                    },
+                    "_:used9": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/predictions.txt"
+                    },
+                    "_:used10": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/project.mat"
+                    },
+                    "_:used11": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/project.xmlx"
+                    },
+                    "_:used12": {
+                        "prov:activity": "repo:6f57fcf4-b498-4258-b632-365afbd31d6d",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project/results.mat"
+                    }
+                }
+            }
+        }
+    }
+]

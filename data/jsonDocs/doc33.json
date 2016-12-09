@@ -1,0 +1,171 @@
+[
+    {
+        "prefix": {
+            "ddmore": "http://ddmore.eu/workflow",
+            "vcs": "http://ddmore.eu/workflow/vcs",
+            "repo": "https://github.com/johndoe/examplerepo.git"
+        },
+        "bundle": {
+            "repo:cbeaf3b1-e60a-4fb8-8cfe-2991d95bf838": {
+                "wasGeneratedBy": {
+                    
+                },
+                "activity": {
+                    
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:cbeaf3b1-e60a-4fb8-8cfe-2991d95bf838/models/Step7.mdl",
+                        "prov:generalEntity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl",
+                        "prov:bundle": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:cbeaf3b1-e60a-4fb8-8cfe-2991d95bf838/models/Step7.mdl",
+                        "prov:generalEntity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl",
+                        "prov:bundle": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f"
+                    },
+                    "_:mention_of_2": {
+                        "prov:specificEntity": "repo:cbeaf3b1-e60a-4fb8-8cfe-2991d95bf838/models/warfarin_conc.csv",
+                        "prov:generalEntity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv",
+                        "prov:bundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8"
+                    },
+                    "_:mention_of_3": {
+                        "prov:specificEntity": "repo:cbeaf3b1-e60a-4fb8-8cfe-2991d95bf838/models/Step7/Step7.SO.xml",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/Step7.SO.xml",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:cbeaf3b1-e60a-4fb8-8cfe-2991d95bf838/models/Step7.mdl": {
+                        
+                    },
+                    "repo:cbeaf3b1-e60a-4fb8-8cfe-2991d95bf838/models/warfarin_conc.csv": {
+                        
+                    },
+                    "repo:cbeaf3b1-e60a-4fb8-8cfe-2991d95bf838/models/Step7/Step7.SO.xml": {
+                        
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    
+                },
+                "wasDerivedFrom": {
+                    "_:wDF0": {
+                        "prov:generatedEntity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl",
+                        "prov:usedEntity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl"
+                    }
+                },
+                "used": {
+                    
+                }
+            },
+            "repo:c858b996-5314-46cc-85f8-61abf1456e7f": {
+                "wasGeneratedBy": {
+                    "_:gen0": {
+                        "prov:activity": "repo:07dc5218-d926-4290-b09f-a4f2cb7f5b28",
+                        "prov:entity": "repo:c858b996-5314-46cc-85f8-61abf1456e7f/models/Step10/Step10_simulation_1.png"
+                    }
+                },
+                "activity": {
+                    "repo:07dc5218-d926-4290-b09f-a4f2cb7f5b28": {
+                        "prov:startTime": null,
+                        "ddmore:displayName": "Step10_simulation.R"
+                    }
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:c858b996-5314-46cc-85f8-61abf1456e7f/models/Step7.mdl",
+                        "prov:generalEntity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl",
+                        "prov:bundle": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:c858b996-5314-46cc-85f8-61abf1456e7f/models/warfarin_conc.csv",
+                        "prov:generalEntity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv",
+                        "prov:bundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8"
+                    },
+                    "_:mention_of_2": {
+                        "prov:specificEntity": "repo:c858b996-5314-46cc-85f8-61abf1456e7f/models/Step7/Step7.SO.xml",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/Step7.SO.xml",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:c858b996-5314-46cc-85f8-61abf1456e7f/scripts/Step10_simulation.R": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.636Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:c858b996-5314-46cc-85f8-61abf1456e7f",
+                        "prov:location": "/scripts/Step10_simulation.R",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "c858b996-5314-46cc-85f8-61abf1456e7f",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:c858b996-5314-46cc-85f8-61abf1456e7f/models/Step7.mdl": {
+                        
+                    },
+                    "repo:c858b996-5314-46cc-85f8-61abf1456e7f/models/warfarin_conc.csv": {
+                        
+                    },
+                    "repo:c858b996-5314-46cc-85f8-61abf1456e7f/models/Step7/Step7.SO.xml": {
+                        
+                    },
+                    "repo:c858b996-5314-46cc-85f8-61abf1456e7f/models/Step10/Step10_simulation_1.png": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.636Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:c858b996-5314-46cc-85f8-61abf1456e7f",
+                        "prov:location": "/models/Step10/Step10_simulation_1.png",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "c858b996-5314-46cc-85f8-61abf1456e7f",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    "_:wAW0": {
+                        "prov:activity": "repo:07dc5218-d926-4290-b09f-a4f2cb7f5b28",
+                        "prov:plan": "repo:c858b996-5314-46cc-85f8-61abf1456e7f/scripts/Step10_simulation.R"
+                    }
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    "_:used0": {
+                        "prov:activity": "repo:07dc5218-d926-4290-b09f-a4f2cb7f5b28",
+                        "prov:entity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl"
+                    },
+                    "_:used1": {
+                        "prov:activity": "repo:07dc5218-d926-4290-b09f-a4f2cb7f5b28",
+                        "prov:entity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv"
+                    },
+                    "_:used2": {
+                        "prov:activity": "repo:07dc5218-d926-4290-b09f-a4f2cb7f5b28",
+                        "prov:entity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/Step7.SO.xml"
+                    }
+                }
+            }
+        }
+    }
+]

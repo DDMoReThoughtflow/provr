@@ -1,0 +1,129 @@
+[
+    {
+        "prefix": {
+            "ddmore": "http://ddmore.eu/workflow",
+            "vcs": "http://ddmore.eu/workflow/vcs",
+            "repo": "https://github.com/johndoe/examplerepo.git"
+        },
+        "bundle": {
+            "repo:1f66b0b7-886a-48da-9d9f-95799cf226b3": {
+                "wasGeneratedBy": {
+                    
+                },
+                "activity": {
+                    
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:1f66b0b7-886a-48da-9d9f-95799cf226b3/models/Step3/Step3.mdl",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3.mdl",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:1f66b0b7-886a-48da-9d9f-95799cf226b3/models/warfarin_conc.csv",
+                        "prov:generalEntity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv",
+                        "prov:bundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:1f66b0b7-886a-48da-9d9f-95799cf226b3/models/Step3/Step3.mdl": {
+                        
+                    },
+                    "repo:1f66b0b7-886a-48da-9d9f-95799cf226b3/models/warfarin_conc.csv": {
+                        
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    
+                }
+            },
+            "repo:a7fbbf52-5a15-4b9c-96b5-a13dcc236d72": {
+                "wasGeneratedBy": {
+                    "_:gen0": {
+                        "prov:activity": "repo:217c4c91-3c1b-46cb-b06d-130fd0873dd0",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3.xml"
+                    }
+                },
+                "activity": {
+                    "repo:217c4c91-3c1b-46cb-b06d-130fd0873dd0": {
+                        "prov:startTime": null,
+                        "ddmore:displayName": "estimate"
+                    }
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:a7fbbf52-5a15-4b9c-96b5-a13dcc236d72/scripts/Step3.R",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/scripts/Step3.R",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:a7fbbf52-5a15-4b9c-96b5-a13dcc236d72/models/Step3/Step3.mdl",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3.mdl",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_2": {
+                        "prov:specificEntity": "repo:a7fbbf52-5a15-4b9c-96b5-a13dcc236d72/models/warfarin_conc.csv",
+                        "prov:generalEntity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv",
+                        "prov:bundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8"
+                    },
+                    "_:mention_of_3": {
+                        "prov:specificEntity": "repo:a7fbbf52-5a15-4b9c-96b5-a13dcc236d72/models/Step3/Step3.xml",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3.xml",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:a7fbbf52-5a15-4b9c-96b5-a13dcc236d72/scripts/Step3.R": {
+                        
+                    },
+                    "repo:a7fbbf52-5a15-4b9c-96b5-a13dcc236d72/models/Step3/Step3.mdl": {
+                        
+                    },
+                    "repo:a7fbbf52-5a15-4b9c-96b5-a13dcc236d72/models/warfarin_conc.csv": {
+                        
+                    },
+                    "repo:a7fbbf52-5a15-4b9c-96b5-a13dcc236d72/models/Step3/Step3.xml": {
+                        
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    "_:wAW0": {
+                        "prov:activity": "repo:217c4c91-3c1b-46cb-b06d-130fd0873dd0",
+                        "prov:plan": "repo:faca935a-2515-47be-932a-f91b665077bf/scripts/Step3.R"
+                    }
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    "_:used0": {
+                        "prov:activity": "repo:217c4c91-3c1b-46cb-b06d-130fd0873dd0",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3.mdl"
+                    },
+                    "_:used1": {
+                        "prov:activity": "repo:217c4c91-3c1b-46cb-b06d-130fd0873dd0",
+                        "prov:entity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv"
+                    }
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "prefix": {
+            "ddmore": "http://ddmore.eu/workflow",
+            "vcs": "http://ddmore.eu/workflow/vcs",
+            "repo": "https://github.com/johndoe/examplerepo.git"
+        },
+        "bundle": {
+            "repo:cfeb5da9-8fee-4153-a613-4cbee6274e85": {
+                "wasGeneratedBy": {
+                    
+                },
+                "activity": {
+                    
+                },
+                "mentionOf": {
+                    
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    
+                }
+            },
+            "repo:d646f874-a2d7-4efd-ae8c-160da7f216c8": {
+                "wasGeneratedBy": {
+                    
+                },
+                "activity": {
+                    "repo:37058963-022a-4163-8e37-b90bd3731934": {
+                        "prov:startTime": null,
+                        "ddmore:displayName": "as.pharmml"
+                    }
+                },
+                "mentionOf": {
+                    
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    
+                }
+            }
+        }
+    }
+]

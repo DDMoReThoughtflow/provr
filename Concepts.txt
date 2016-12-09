@@ -1,0 +1,67 @@
+# In R:
+# git baked into MDL-IDE / Eclipse - who? how?
+# Running script
+# git watches
+# If anything changes then git knows.
+# User decides to add, commit code.
+
+# Can substitute FIS to Pirana, PsN, WfN, Census, etc.
+# In git, define FIS as a User / agent for this project
+# Would allow FIS to add, commit, make changes.
+# Would then be able to identify that FIS has done work (automation)
+# FIS generates pull request.
+# User acceptance - pending review of output.
+# i.e. commit only if happy with the model.
+
+# Need wrapper around execution of target software to place information into Prov-O database.
+# Need to parse target software code (NMTRAN, MLXTRAN) and call to identify inputs and expected outputs.
+
+## SERVICES
+# Need tech to squirt this info to Prov-O database
+# Need tech to extract from Prov-O database - JSON (DONE?)
+# Need tech (R) to read and format JSON to .csv(s)
+
+# "Commit" commits locally and adds annotations to Prov-O database
+# "Push" does git push to file storage (network drive) but ALSO pushes info to Prov-O database
+
+# User-focussed back end in R
+# Uses dplyr to mung data
+# Uses DT or Shiny to visualise
+
+## QC 
+# QCchecklist is a function entityID as input
+# Output is QCchecklist_entityIDxxxxxx.Rdata
+# Can recursively create QCchecklist for entities that are not QCed (given parent entity)
+# QCchecklist is a snapshot of Prov-O database for an entity
+# QCer can change QC status of entity (Not done / Pass / Fail)
+# Would also be able to look at diff between versions of entities
+
+## Update Prov-O database
+# QC status
+# Assumptions - entity - structured text file - validation step
+# Decisions - entity - structured text file - validation step
+# Comments / rationale / annotations
+
+## Run Record
+# Create get MLE values for PsN, RNMImport, etc.
+# xpose4::read.lst??
+
+## Assumption Table
+# Associated assumptions with entity ID
+# Assumptions are viral - if simulate using final model, then simulations should inherit assumptions of final model.
+
+Assumption Table associatedWith entityID
+Assumption                              associatedWithEntity    ImpactsStep         Impacts           Rationale
+KA & TLAG describe warfarin absoprtion  warfarin_conc.csv Step2, Step3        Model Absorption  9 subjects only with absorption
+Dose response is linear
+
+Run Record  Assumptions
+Step1  ...  Assumption1
+Step2 ...   Assumption1, Assumption2
+Step3
+
+Decision Log
+Decision                          associatedWithEntities    Assumptions     Agent
+This is my final model            123456, 123453             Assumption1    analyst
+Doses for next protocol                                                     Clin Pharm lead
+Kill drug                                                                   Management

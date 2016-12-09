@@ -1,0 +1,216 @@
+[
+    {
+        "prefix": {
+            "ddmore": "http://ddmore.eu/workflow",
+            "vcs": "http://ddmore.eu/workflow/vcs",
+            "repo": "https://github.com/johndoe/examplerepo.git"
+        },
+        "bundle": {
+            "repo:fac1f2c8-117c-4132-9175-39b5661378e8": {
+                "wasGeneratedBy": {
+                    
+                },
+                "activity": {
+                    
+                },
+                "mentionOf": {
+                    
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/UseCase2.mdl": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:19.787Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8",
+                        "prov:location": "/models/UseCase2.mdl",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "fac1f2c8-117c-4132-9175-39b5661378e8",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:19.787Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8",
+                        "prov:location": "/models/warfarin_conc.csv",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "fac1f2c8-117c-4132-9175-39b5661378e8",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    
+                }
+            },
+            "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0": {
+                "wasGeneratedBy": {
+                    "_:gen0": {
+                        "prov:activity": "repo:0da4fc7b-c33b-4c3a-964e-0a42db1f1446",
+                        "prov:entity": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/Step0/Step0_EDA_1.png"
+                    },
+                    "_:gen1": {
+                        "prov:activity": "repo:0da4fc7b-c33b-4c3a-964e-0a42db1f1446",
+                        "prov:entity": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/Step0/Step0_EDA_2.png"
+                    },
+                    "_:gen2": {
+                        "prov:activity": "repo:0da4fc7b-c33b-4c3a-964e-0a42db1f1446",
+                        "prov:entity": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/Step0/Step0_EDA_3.png"
+                    },
+                    "_:gen3": {
+                        "prov:activity": "repo:0da4fc7b-c33b-4c3a-964e-0a42db1f1446",
+                        "prov:entity": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/Step0/Step0_EDA_4.png"
+                    }
+                },
+                "activity": {
+                    "repo:0da4fc7b-c33b-4c3a-964e-0a42db1f1446": {
+                        "prov:startTime": "2016-01-26T09:22:28.000Z",
+                        "ddmore:description": "Exploratory data analysis (EDA). Graphical exploration of the PK profiles",
+                        "ddmore:displayName": "EDA.R"
+                    }
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/UseCase2.mdl",
+                        "prov:generalEntity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/UseCase2.mdl",
+                        "prov:bundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/warfarin_conc.csv",
+                        "prov:generalEntity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv",
+                        "prov:bundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/scripts/EDA.R": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:20.342Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0",
+                        "prov:location": "/scripts/EDA.R",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "d402dcc9-6fcc-4fb6-858b-f021af3a54b0",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/UseCase2.mdl": {
+                        
+                    },
+                    "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/warfarin_conc.csv": {
+                        
+                    },
+                    "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/Step0/Step0_EDA_1.png": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:20.342Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0",
+                        "prov:location": "/models/Step0/Step0_EDA_1.png",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "d402dcc9-6fcc-4fb6-858b-f021af3a54b0",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/Step0/Step0_EDA_2.png": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:20.342Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0",
+                        "prov:location": "/models/Step0/Step0_EDA_2.png",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "d402dcc9-6fcc-4fb6-858b-f021af3a54b0",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/Step0/Step0_EDA_3.png": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:20.342Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0",
+                        "prov:location": "/models/Step0/Step0_EDA_3.png",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "d402dcc9-6fcc-4fb6-858b-f021af3a54b0",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/models/Step0/Step0_EDA_4.png": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:20.342Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0",
+                        "prov:location": "/models/Step0/Step0_EDA_4.png",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "d402dcc9-6fcc-4fb6-858b-f021af3a54b0",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    "_:wAW0": {
+                        "prov:activity": "repo:0da4fc7b-c33b-4c3a-964e-0a42db1f1446",
+                        "prov:plan": "repo:d402dcc9-6fcc-4fb6-858b-f021af3a54b0/scripts/EDA.R"
+                    }
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    "_:used0": {
+                        "prov:activity": "repo:0da4fc7b-c33b-4c3a-964e-0a42db1f1446",
+                        "prov:entity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/UseCase2.mdl"
+                    },
+                    "_:used1": {
+                        "prov:activity": "repo:0da4fc7b-c33b-4c3a-964e-0a42db1f1446",
+                        "prov:entity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv"
+                    }
+                }
+            }
+        }
+    }
+]

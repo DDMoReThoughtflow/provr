@@ -1,0 +1,437 @@
+[
+    {
+        "prefix": {
+            "ddmore": "http://ddmore.eu/workflow",
+            "vcs": "http://ddmore.eu/workflow/vcs",
+            "repo": "https://github.com/johndoe/examplerepo.git"
+        },
+        "bundle": {
+            "repo:048245ed-a989-4410-a9d6-7ae2db7a940f": {
+                "wasGeneratedBy": {
+                    
+                },
+                "activity": {
+                    
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:048245ed-a989-4410-a9d6-7ae2db7a940f/models/Step7.mdl",
+                        "prov:generalEntity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl",
+                        "prov:bundle": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:048245ed-a989-4410-a9d6-7ae2db7a940f/models/Step7.mdl",
+                        "prov:generalEntity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl",
+                        "prov:bundle": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f"
+                    },
+                    "_:mention_of_2": {
+                        "prov:specificEntity": "repo:048245ed-a989-4410-a9d6-7ae2db7a940f/models/warfarin_conc.csv",
+                        "prov:generalEntity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv",
+                        "prov:bundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8"
+                    },
+                    "_:mention_of_3": {
+                        "prov:specificEntity": "repo:048245ed-a989-4410-a9d6-7ae2db7a940f/models/Step7/Step7.SO.xml",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/Step7.SO.xml",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:048245ed-a989-4410-a9d6-7ae2db7a940f/models/Step7.mdl": {
+                        
+                    },
+                    "repo:048245ed-a989-4410-a9d6-7ae2db7a940f/models/warfarin_conc.csv": {
+                        
+                    },
+                    "repo:048245ed-a989-4410-a9d6-7ae2db7a940f/models/Step7/Step7.SO.xml": {
+                        
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    
+                },
+                "wasDerivedFrom": {
+                    "_:wDF0": {
+                        "prov:generatedEntity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl",
+                        "prov:usedEntity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl"
+                    }
+                },
+                "used": {
+                    
+                }
+            },
+            "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b": {
+                "wasGeneratedBy": {
+                    "_:gen0": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/npctab.dta"
+                    },
+                    "_:gen1": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/stderr.txt"
+                    },
+                    "_:gen2": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/stdout.txt"
+                    },
+                    "_:gen3": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.ctl"
+                    },
+                    "_:gen4": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.mdl"
+                    },
+                    "_:gen5": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.psn.log"
+                    },
+                    "_:gen6": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.SO.xml"
+                    },
+                    "_:gen7": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.xml"
+                    },
+                    "_:gen8": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.xml.bak"
+                    },
+                    "_:gen9": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC_1.png"
+                    },
+                    "_:gen10": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/version_and_option_info.txt"
+                    },
+                    "_:gen11": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/vpc_results.csv"
+                    },
+                    "_:gen12": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/vpc_simulation.1.lst"
+                    },
+                    "_:gen13": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/vpctab"
+                    },
+                    "_:gen14": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/warfarin_conc.csv"
+                    }
+                },
+                "activity": {
+                    "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4": {
+                        "prov:startTime": null,
+                        "ddmore:displayName": "Step9_VPC.R"
+                    }
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step7.mdl",
+                        "prov:generalEntity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl",
+                        "prov:bundle": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/warfarin_conc.csv",
+                        "prov:generalEntity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv",
+                        "prov:bundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8"
+                    },
+                    "_:mention_of_2": {
+                        "prov:specificEntity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step7/Step7.SO.xml",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/Step7.SO.xml",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/scripts/Step9_VPC.R": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/scripts/Step9_VPC.R",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step7.mdl": {
+                        
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/warfarin_conc.csv": {
+                        
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step7/Step7.SO.xml": {
+                        
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/npctab.dta": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/npctab.dta",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/stderr.txt": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/stderr.txt",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/stdout.txt": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/stdout.txt",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.ctl": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/Step9_VPC.ctl",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.mdl": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/Step9_VPC.mdl",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.psn.log": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/Step9_VPC.psn.log",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.SO.xml": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/Step9_VPC.SO.xml",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.xml": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/Step9_VPC.xml",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC.xml.bak": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/Step9_VPC.xml.bak",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC_1.png": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/Step9_VPC_1.png",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/version_and_option_info.txt": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/version_and_option_info.txt",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/vpc_results.csv": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/vpc_results.csv",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/vpc_simulation.1.lst": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/vpc_simulation.1.lst",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/vpctab": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/vpctab",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/warfarin_conc.csv": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.572Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                        "prov:location": "/models/Step9/warfarin_conc.csv",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "e1f2f124-e4d1-41ce-a79a-64bfff57944b",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    "_:wAW0": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:plan": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/scripts/Step9_VPC.R"
+                    }
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    "_:used0": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:2be8e084-0122-4904-a73d-6ca8a54a938f/models/Step7.mdl"
+                    },
+                    "_:used1": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv"
+                    },
+                    "_:used2": {
+                        "prov:activity": "repo:8ba99ea5-ad19-47a1-b5e6-c6d2c9cea0d4",
+                        "prov:entity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/Step7.SO.xml"
+                    }
+                }
+            }
+        }
+    }
+]

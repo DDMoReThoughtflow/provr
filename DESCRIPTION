@@ -1,0 +1,23 @@
+Package: provr
+Type: Package
+Title: Work with entities within a workflow whose metadata is captured in a Prov-O ontology (RDF) triple store
+Version: 0.1
+Date: 2016-05-31
+Author: Justin Wilkins, Mike K Smith, Jonathan Chard
+Maintainer: Justin Wilkins <justin.wilkins@occams.eu>
+Description: PROV-O (http://www.w3.org/TR/prov-o/) (Quote:) Provides a set of classes, properties, and restrictions that can be used to represent and interchange provenance information generated in different systems and under different contexts. (/Quote) We assume that an RDF store (database) of PROV-O mapped metadata is available on entities, actors, revisions, relationships etc. and that a version control system is employed. This R package allows the user to nominate entities, folder, actions that are to be logged with Prov-O metadata.
+License: GPL (>= 2) 
+RoxygenNote: 5.0.1
+Imports: 
+    curl,
+    dplyr,
+    ggplot2,
+    jsonlite,
+    magrittr,
+    RCurl,
+    ROAuth,
+    SPARQL,
+    XML
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr

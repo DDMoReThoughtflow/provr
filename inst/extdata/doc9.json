@@ -1,0 +1,130 @@
+[
+    {
+        "prefix": {
+            "ddmore": "http://ddmore.eu/workflow",
+            "vcs": "http://ddmore.eu/workflow/vcs",
+            "repo": "https://github.com/johndoe/examplerepo.git"
+        },
+        "bundle": {
+            "repo:99245a90-c949-446f-8378-f2d2ef140515": {
+                "wasGeneratedBy": {
+                    
+                },
+                "activity": {
+                    
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:99245a90-c949-446f-8378-f2d2ef140515/models/Step2/Step2/Step2_model.txt",
+                        "prov:generalEntity": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a/models/Step2/Step2/Step2_model.txt",
+                        "prov:bundle": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:99245a90-c949-446f-8378-f2d2ef140515/models/Step2/Step2/Step2_model.txt": {
+                        
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    
+                }
+            },
+            "repo:2ea76bab-e613-4124-8a7b-dbb862f89b50": {
+                "wasGeneratedBy": {
+                    "_:gen0": {
+                        "prov:activity": "repo:c86cb0f1-c763-4eb3-8d65-9fcc8c33dc62",
+                        "prov:entity": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a/models/Step2/Step2/Step2_model.txt"
+                    },
+                    "_:gen1": {
+                        "prov:activity": "repo:c86cb0f1-c763-4eb3-8d65-9fcc8c33dc62",
+                        "prov:entity": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a/models/Step2/Step2/Step2_pharmmlnames.txt"
+                    },
+                    "_:gen2": {
+                        "prov:activity": "repo:c86cb0f1-c763-4eb3-8d65-9fcc8c33dc62",
+                        "prov:entity": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a/models/Step2/Step2/Step2_project.mlxtran"
+                    }
+                },
+                "activity": {
+                    "repo:c86cb0f1-c763-4eb3-8d65-9fcc8c33dc62": {
+                        "prov:startTime": null,
+                        "ddmore:displayName": "estimate"
+                    }
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:2ea76bab-e613-4124-8a7b-dbb862f89b50/scripts/Step2.R",
+                        "prov:generalEntity": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a/scripts/Step2.R",
+                        "prov:bundle": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:2ea76bab-e613-4124-8a7b-dbb862f89b50/models/Step2/Step2/Step2_model.txt",
+                        "prov:generalEntity": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a/models/Step2/Step2/Step2_model.txt",
+                        "prov:bundle": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a"
+                    },
+                    "_:mention_of_2": {
+                        "prov:specificEntity": "repo:2ea76bab-e613-4124-8a7b-dbb862f89b50/models/Step2/Step2/Step2_model.txt",
+                        "prov:generalEntity": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a/models/Step2/Step2/Step2_model.txt",
+                        "prov:bundle": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a"
+                    },
+                    "_:mention_of_3": {
+                        "prov:specificEntity": "repo:2ea76bab-e613-4124-8a7b-dbb862f89b50/models/Step2/Step2/Step2_pharmmlnames.txt",
+                        "prov:generalEntity": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a/models/Step2/Step2/Step2_pharmmlnames.txt",
+                        "prov:bundle": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a"
+                    },
+                    "_:mention_of_4": {
+                        "prov:specificEntity": "repo:2ea76bab-e613-4124-8a7b-dbb862f89b50/models/Step2/Step2/Step2_project.mlxtran",
+                        "prov:generalEntity": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a/models/Step2/Step2/Step2_project.mlxtran",
+                        "prov:bundle": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:2ea76bab-e613-4124-8a7b-dbb862f89b50/scripts/Step2.R": {
+                        
+                    },
+                    "repo:2ea76bab-e613-4124-8a7b-dbb862f89b50/models/Step2/Step2/Step2_model.txt": {
+                        
+                    },
+                    "repo:2ea76bab-e613-4124-8a7b-dbb862f89b50/models/Step2/Step2/Step2_pharmmlnames.txt": {
+                        
+                    },
+                    "repo:2ea76bab-e613-4124-8a7b-dbb862f89b50/models/Step2/Step2/Step2_project.mlxtran": {
+                        
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    "_:wAW0": {
+                        "prov:activity": "repo:c86cb0f1-c763-4eb3-8d65-9fcc8c33dc62",
+                        "prov:plan": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a/scripts/Step2.R"
+                    }
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    "_:used0": {
+                        "prov:activity": "repo:c86cb0f1-c763-4eb3-8d65-9fcc8c33dc62",
+                        "prov:entity": "repo:7cf437a4-a37a-435a-a45a-28c3dd44c36a/models/Step2/Step2/Step2_model.txt"
+                    }
+                }
+            }
+        }
+    }
+]

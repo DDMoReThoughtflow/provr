@@ -1,0 +1,290 @@
+[
+    {
+        "prefix": {
+            "ddmore": "http://ddmore.eu/workflow",
+            "vcs": "http://ddmore.eu/workflow/vcs",
+            "repo": "https://github.com/johndoe/examplerepo.git"
+        },
+        "bundle": {
+            "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797": {
+                "wasGeneratedBy": {
+                    
+                },
+                "activity": {
+                    
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/warfarin_conc.csv",
+                        "prov:generalEntity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv",
+                        "prov:bundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step7/Step7.SO.xml",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/Step7.SO.xml",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    },
+                    "_:mention_of_2": {
+                        "prov:specificEntity": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step8/Step7.SO.xml",
+                        "prov:generalEntity": "repo:4639da73-d58a-4951-839c-cfe77f3d8188/models/Step8/Step7.SO.xml",
+                        "prov:bundle": "repo:4639da73-d58a-4951-839c-cfe77f3d8188"
+                    },
+                    "_:mention_of_3": {
+                        "prov:specificEntity": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step7/GOF_MLX_1.png",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/GOF_MLX_1.png",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    },
+                    "_:mention_of_4": {
+                        "prov:specificEntity": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step7/GOF_MLX_2.png",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/GOF_MLX_2.png",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    },
+                    "_:mention_of_5": {
+                        "prov:specificEntity": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step7/GOF_MLX_3.png",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/GOF_MLX_3.png",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    },
+                    "_:mention_of_6": {
+                        "prov:specificEntity": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step9/Step9_VPC_1.png",
+                        "prov:generalEntity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC_1.png",
+                        "prov:bundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b"
+                    },
+                    "_:mention_of_7": {
+                        "prov:specificEntity": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step10/Step10_simulation_1.png",
+                        "prov:generalEntity": "repo:c858b996-5314-46cc-85f8-61abf1456e7f/models/Step10/Step10_simulation_1.png",
+                        "prov:bundle": "repo:c858b996-5314-46cc-85f8-61abf1456e7f"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/warfarin_conc.csv": {
+                        
+                    },
+                    "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step7/Step7.SO.xml": {
+                        
+                    },
+                    "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step8/Step7.SO.xml": {
+                        
+                    },
+                    "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step7/GOF_MLX_1.png": {
+                        
+                    },
+                    "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step7/GOF_MLX_2.png": {
+                        
+                    },
+                    "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step7/GOF_MLX_3.png": {
+                        
+                    },
+                    "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step9/Step9_VPC_1.png": {
+                        
+                    },
+                    "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Step10/Step10_simulation_1.png": {
+                        
+                    },
+                    "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Report.Rmd": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.649Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797",
+                        "prov:location": "/models/Report.Rmd",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "6da5f6e4-bf4c-48ea-a48b-9223abb5d797",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    
+                }
+            },
+            "repo:59168537-7c88-40d7-a633-5dcb85d5daf4": {
+                "wasGeneratedBy": {
+                    "_:gen0": {
+                        "prov:activity": "repo:e815020e-c6e3-429a-82fb-920c9712db12",
+                        "prov:entity": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Report.html"
+                    }
+                },
+                "activity": {
+                    "repo:e815020e-c6e3-429a-82fb-920c9712db12": {
+                        "prov:startTime": null,
+                        "ddmore:displayName": "Step11_reporting.R"
+                    }
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/warfarin_conc.csv",
+                        "prov:generalEntity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv",
+                        "prov:bundle": "repo:fac1f2c8-117c-4132-9175-39b5661378e8"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step7/Step7.SO.xml",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/Step7.SO.xml",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    },
+                    "_:mention_of_2": {
+                        "prov:specificEntity": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step8/Step7.SO.xml",
+                        "prov:generalEntity": "repo:4639da73-d58a-4951-839c-cfe77f3d8188/models/Step8/Step7.SO.xml",
+                        "prov:bundle": "repo:4639da73-d58a-4951-839c-cfe77f3d8188"
+                    },
+                    "_:mention_of_3": {
+                        "prov:specificEntity": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step7/GOF_MLX_1.png",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/GOF_MLX_1.png",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    },
+                    "_:mention_of_4": {
+                        "prov:specificEntity": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step7/GOF_MLX_2.png",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/GOF_MLX_2.png",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    },
+                    "_:mention_of_5": {
+                        "prov:specificEntity": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step7/GOF_MLX_3.png",
+                        "prov:generalEntity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/GOF_MLX_3.png",
+                        "prov:bundle": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12"
+                    },
+                    "_:mention_of_6": {
+                        "prov:specificEntity": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step9/Step9_VPC_1.png",
+                        "prov:generalEntity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC_1.png",
+                        "prov:bundle": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b"
+                    },
+                    "_:mention_of_7": {
+                        "prov:specificEntity": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step10/Step10_simulation_1.png",
+                        "prov:generalEntity": "repo:c858b996-5314-46cc-85f8-61abf1456e7f/models/Step10/Step10_simulation_1.png",
+                        "prov:bundle": "repo:c858b996-5314-46cc-85f8-61abf1456e7f"
+                    },
+                    "_:mention_of_8": {
+                        "prov:specificEntity": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Report.Rmd",
+                        "prov:generalEntity": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Report.Rmd",
+                        "prov:bundle": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/scripts/Step11_reporting.R": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.650Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4",
+                        "prov:location": "/scripts/Step11_reporting.R",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "59168537-7c88-40d7-a633-5dcb85d5daf4",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    },
+                    "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/warfarin_conc.csv": {
+                        
+                    },
+                    "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step7/Step7.SO.xml": {
+                        
+                    },
+                    "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step8/Step7.SO.xml": {
+                        
+                    },
+                    "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step7/GOF_MLX_1.png": {
+                        
+                    },
+                    "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step7/GOF_MLX_2.png": {
+                        
+                    },
+                    "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step7/GOF_MLX_3.png": {
+                        
+                    },
+                    "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step9/Step9_VPC_1.png": {
+                        
+                    },
+                    "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Step10/Step10_simulation_1.png": {
+                        
+                    },
+                    "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Report.Rmd": {
+                        
+                    },
+                    "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/models/Report.html": {
+                        "prov:time": {
+                            "$": "2016-02-26T18:12:21.650Z",
+                            "type": "xsd:dateTime"
+                        },
+                        "owningBundle": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4",
+                        "prov:location": "/models/Report.html",
+                        "prov:type": "document",
+                        "vcs:branch": "master",
+                        "vcs:commitId": {
+                            "$": "59168537-7c88-40d7-a633-5dcb85d5daf4",
+                            "type": "xsd:hexBinary"
+                        },
+                        "vcs:message": "null"
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    "_:wAW0": {
+                        "prov:activity": "repo:e815020e-c6e3-429a-82fb-920c9712db12",
+                        "prov:plan": "repo:59168537-7c88-40d7-a633-5dcb85d5daf4/scripts/Step11_reporting.R"
+                    }
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    "_:used0": {
+                        "prov:activity": "repo:e815020e-c6e3-429a-82fb-920c9712db12",
+                        "prov:entity": "repo:fac1f2c8-117c-4132-9175-39b5661378e8/models/warfarin_conc.csv"
+                    },
+                    "_:used1": {
+                        "prov:activity": "repo:e815020e-c6e3-429a-82fb-920c9712db12",
+                        "prov:entity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/Step7.SO.xml"
+                    },
+                    "_:used2": {
+                        "prov:activity": "repo:e815020e-c6e3-429a-82fb-920c9712db12",
+                        "prov:entity": "repo:4639da73-d58a-4951-839c-cfe77f3d8188/models/Step8/Step7.SO.xml"
+                    },
+                    "_:used3": {
+                        "prov:activity": "repo:e815020e-c6e3-429a-82fb-920c9712db12",
+                        "prov:entity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/GOF_MLX_1.png"
+                    },
+                    "_:used4": {
+                        "prov:activity": "repo:e815020e-c6e3-429a-82fb-920c9712db12",
+                        "prov:entity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/GOF_MLX_2.png"
+                    },
+                    "_:used5": {
+                        "prov:activity": "repo:e815020e-c6e3-429a-82fb-920c9712db12",
+                        "prov:entity": "repo:3465d0a5-6320-4fb9-bff2-f7505213cf12/models/Step7/GOF_MLX_3.png"
+                    },
+                    "_:used6": {
+                        "prov:activity": "repo:e815020e-c6e3-429a-82fb-920c9712db12",
+                        "prov:entity": "repo:e1f2f124-e4d1-41ce-a79a-64bfff57944b/models/Step9/Step9_VPC_1.png"
+                    },
+                    "_:used7": {
+                        "prov:activity": "repo:e815020e-c6e3-429a-82fb-920c9712db12",
+                        "prov:entity": "repo:c858b996-5314-46cc-85f8-61abf1456e7f/models/Step10/Step10_simulation_1.png"
+                    },
+                    "_:used8": {
+                        "prov:activity": "repo:e815020e-c6e3-429a-82fb-920c9712db12",
+                        "prov:entity": "repo:6da5f6e4-bf4c-48ea-a48b-9223abb5d797/models/Report.Rmd"
+                    }
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "prefix": {
+            "ddmore": "http://ddmore.eu/workflow",
+            "vcs": "http://ddmore.eu/workflow/vcs",
+            "repo": "https://github.com/johndoe/examplerepo.git"
+        },
+        "bundle": {
+            "repo:1e220de0-756e-4b71-8866-7913982f4c87": {
+                "wasGeneratedBy": {
+                    
+                },
+                "activity": {
+                    
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:1e220de0-756e-4b71-8866-7913982f4c87/models/Step3/Step3.xml",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3.xml",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:1e220de0-756e-4b71-8866-7913982f4c87/models/Step3/Step3.xml": {
+                        
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    
+                }
+            },
+            "repo:249971d6-dd45-4669-add3-97054e45f8c0": {
+                "wasGeneratedBy": {
+                    "_:gen0": {
+                        "prov:activity": "repo:dc6f178e-014a-4884-bdf4-1c68e0f63ed7",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_model.txt"
+                    },
+                    "_:gen1": {
+                        "prov:activity": "repo:dc6f178e-014a-4884-bdf4-1c68e0f63ed7",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_pharmmlnames.txt"
+                    },
+                    "_:gen2": {
+                        "prov:activity": "repo:dc6f178e-014a-4884-bdf4-1c68e0f63ed7",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project.mlxtran"
+                    }
+                },
+                "activity": {
+                    "repo:dc6f178e-014a-4884-bdf4-1c68e0f63ed7": {
+                        "prov:startTime": null,
+                        "ddmore:displayName": "estimate"
+                    }
+                },
+                "mentionOf": {
+                    "_:mention_of_0": {
+                        "prov:specificEntity": "repo:249971d6-dd45-4669-add3-97054e45f8c0/scripts/Step3.R",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/scripts/Step3.R",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_1": {
+                        "prov:specificEntity": "repo:249971d6-dd45-4669-add3-97054e45f8c0/models/Step3/Step3.xml",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3.xml",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_2": {
+                        "prov:specificEntity": "repo:249971d6-dd45-4669-add3-97054e45f8c0/models/Step3/Step3/Step3_model.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_model.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_3": {
+                        "prov:specificEntity": "repo:249971d6-dd45-4669-add3-97054e45f8c0/models/Step3/Step3/Step3_pharmmlnames.txt",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_pharmmlnames.txt",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    },
+                    "_:mention_of_4": {
+                        "prov:specificEntity": "repo:249971d6-dd45-4669-add3-97054e45f8c0/models/Step3/Step3/Step3_project.mlxtran",
+                        "prov:generalEntity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3/Step3_project.mlxtran",
+                        "prov:bundle": "repo:faca935a-2515-47be-932a-f91b665077bf"
+                    }
+                },
+                "wasAttributedTo": {
+                    
+                },
+                "entity": {
+                    "repo:249971d6-dd45-4669-add3-97054e45f8c0/scripts/Step3.R": {
+                        
+                    },
+                    "repo:249971d6-dd45-4669-add3-97054e45f8c0/models/Step3/Step3.xml": {
+                        
+                    },
+                    "repo:249971d6-dd45-4669-add3-97054e45f8c0/models/Step3/Step3/Step3_model.txt": {
+                        
+                    },
+                    "repo:249971d6-dd45-4669-add3-97054e45f8c0/models/Step3/Step3/Step3_pharmmlnames.txt": {
+                        
+                    },
+                    "repo:249971d6-dd45-4669-add3-97054e45f8c0/models/Step3/Step3/Step3_project.mlxtran": {
+                        
+                    }
+                },
+                "agent": {
+                    
+                },
+                "wasAssociatedWith": {
+                    "_:wAW0": {
+                        "prov:activity": "repo:dc6f178e-014a-4884-bdf4-1c68e0f63ed7",
+                        "prov:plan": "repo:faca935a-2515-47be-932a-f91b665077bf/scripts/Step3.R"
+                    }
+                },
+                "wasDerivedFrom": {
+                    
+                },
+                "used": {
+                    "_:used0": {
+                        "prov:activity": "repo:dc6f178e-014a-4884-bdf4-1c68e0f63ed7",
+                        "prov:entity": "repo:faca935a-2515-47be-932a-f91b665077bf/models/Step3/Step3.xml"
+                    }
+                }
+            }
+        }
+    }
+]
